@@ -19,17 +19,20 @@ https://github.com/wimberle/ME507-Term-Project/blob/main/Bill%20of%20Materials.p
 
 https://github.com/wimberle/ME507-Term-Project/blob/main/Final%20Project%20Reflection.pdf
 
-#PCB & Schematic
+# PCB & Schematic
 
 https://github.com/wimberle/ME507-Term-Project/blob/main/SchematicAndPCB.pdf
 
-# The following YouTube videos show individual functionality of our sensors:
+# Top View of Final Results
+
+https://github.com/wimberle/ME507-Term-Project/blob/main/IMG_4164.jpg
+
+# YouTube Videos Demonstrating The Functionality Of Our Sensors
 This video demonstrates line sensor functionality. 
 
 https://youtu.be/W9VtT7H_Afg
 
 This next video demonstates the capabilities of our DeadMan switch and ultrasonic sensor.
-
 
 https://www.youtube.com/watch?v=X5WVTXg_MDY
 
