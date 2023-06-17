@@ -12,8 +12,15 @@ The scope of this project was to create a robot for a competition of the game Hu
 
 # The following YouTube videos show individual functionality of our sensors:
 This video demonstrates line sensor functionality. 
+
 https://youtu.be/W9VtT7H_Afg
+
 This next video demonstates the capabilities of our DeadMan switch and ultrasonic sensor.
+
+
 https://www.youtube.com/watch?v=X5WVTXg_MDY
+
 This last video demonstrates the capabilities of our ball retrieving mechanism.
+
+
 https://youtu.be/SO9tpv2Un_M
