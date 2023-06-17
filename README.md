@@ -8,7 +8,7 @@ The scope of this project was to create a robot for a competition of the game Hu
 
 # Bill of Materials
 
-
+[embed] https://github.com/wimberle/ME507-Term-Project/blob/main/Bill%20of%20Materials.pdf
 
 # The following YouTube videos show individual functionality of our sensors:
 This video demonstrates line sensor functionality. 
