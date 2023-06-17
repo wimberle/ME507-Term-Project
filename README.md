@@ -3,8 +3,13 @@ This is the GitHub repository for the ME-507 Term Project at Cal Poly, SLO in sp
 By: 
 Matthew Wimberley and partner David Reo
 
-The scope of this project was to create a robot for a competition of the game Hungry Hungry Hippos, where each robot must collect their team's respective color from an arena and deliver it to their respective home. 
+The scope of this project was to create a robot for a competition of the game Hungry Hungry Hippos, where each robot must collect their team's respective color from an arena and deliver it to their respective home. A combination of line, ultrasonic, and color sensors in tandem with a custom designed PCB will accomplish this objective.
 
+# Reflection
+
+
+
+The following files better communicates the outcome of the term project.
 
 # Bill of Materials
 
@@ -14,7 +19,7 @@ https://github.com/wimberle/ME507-Term-Project/blob/main/Bill%20of%20Materials.p
 
 https://github.com/wimberle/ME507-Term-Project/blob/main/Final%20Project%20Reflection.pdf
 
-PCB & Schematic
+#PCB & Schematic
 
 https://github.com/wimberle/ME507-Term-Project/blob/main/SchematicAndPCB.pdf
 
