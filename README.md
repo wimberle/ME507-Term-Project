@@ -16,7 +16,7 @@ https://github.com/wimberle/ME507-Term-Project/blob/main/Bill%20of%20Materials.p
 
 ## Final Project Memorandum
 
-https://github.com/wimberle/ME507-Term-Project/blob/main/Final%20Project%20Reflection.pdf
+https://github.com/wimberle/ME507-Term-Project/blob/main/Memorandum.pdf
 
 ## PCB & Schematic
 
